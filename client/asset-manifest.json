@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/elkhaima_fly/client/static/css/main.0d010fb3.css",
+    "main.js": "/elkhaima_fly/client/static/js/main.e3a53453.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/elkhaima_fly/client/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/elkhaima_fly/client/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/elkhaima_fly/client/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/elkhaima_fly/client/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/elkhaima_fly/client/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/elkhaima_fly/client/static/media/logo.4465a4cb27bdc091e359.png",
+    "static/media/user_avatar.svg": "/elkhaima_fly/client/static/media/user_avatar.1664feea0ded7ad8c7fdb521d91129a8.svg",
+    "index.html": "/elkhaima_fly/client/index.html",
+    "main.0d010fb3.css.map": "/elkhaima_fly/client/static/css/main.0d010fb3.css.map",
+    "main.e3a53453.js.map": "/elkhaima_fly/client/static/js/main.e3a53453.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d010fb3.css",
+    "static/js/main.e3a53453.js"
+  ]
+}

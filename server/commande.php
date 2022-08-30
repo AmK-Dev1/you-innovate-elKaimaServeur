@@ -13,7 +13,6 @@ if(
   )
   {
         $serveur = $_POST['serveur'];
-        echo($serveur);
         $article = $_POST['article'];
         $qte = $_POST['qte'];
         $tablenum = $_POST['tablenum'];
